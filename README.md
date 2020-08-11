@@ -1,10 +1,10 @@
-### Hi there 👋
-
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+This is the place where I break things :rofl:  
 <!--
 **Martin-Mok-Tin-Kui/Martin-Mok-Tin-Kui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+Hi there 👋 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Profile views](https://gpvc.arturio.dev/Martin-Mok-Tin-Kui)
