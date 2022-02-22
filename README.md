@@ -1,5 +1,9 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 This is the place where I break things :rofl:  
+Currently learning  
+- Blockchain Techs: smart contracts, NFT, DAO, Layer 2  
+- Devops: On-premises Kubernetes  
+- Microservices architecture: Hexagonal Architecture, DDD, BDD  
 <!--
 **Martin-Mok-Tin-Kui/Martin-Mok-Tin-Kui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
