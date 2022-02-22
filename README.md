@@ -1,5 +1,5 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-This is the place where I record my things :rofl:  
+This is a place where I leave old things and move on. :rofl:  
 Currently learning  
 - Blockchain Techs: smart contracts, NFT, DAO, Layer 2  
 - Devops: On-premises Kubernetes  
