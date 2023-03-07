@@ -2,7 +2,7 @@
 This is a place where I leave my stuff and move on. :rofl:  
 Currently learning  
 - Blockchain Techs: smart contracts, NFT, DAO, Layer 2  
-- Devops: On-premises Kubernetes  
+- Devops: Kubernetes, Terraform, Pulumi, ArgoCD  
 - Microservices architecture: Hexagonal Architecture, DDD, BDD  
 <!--
 **Martin-Mok-Tin-Kui/Martin-Mok-Tin-Kui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
