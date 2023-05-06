@@ -1,6 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 This is a place where I leave my stuff and move on. :rofl:  
 Currently learning  
+- ChatGPT!!!  
 - Blockchain Techs: smart contracts, NFT, DAO, Layer 2  
 - Devops: Kubernetes, Terraform, Pulumi, ArgoCD  
 - Microservices architecture: Hexagonal Architecture, DDD, BDD  
