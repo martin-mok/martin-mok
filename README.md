@@ -16,6 +16,7 @@ This is a place where I leave my stuff and move on. :rofl:
 #### Things I follow
 - ByteByteGo
 - Hussein Nasser
+- https://bloggingfordevs.com/trends
 
 #### Things I gave up
 Learning physics in an ivory tower
