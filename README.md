@@ -9,8 +9,8 @@ This is a place where I leave my stuff and move on. :rofl:
 #### Daily activities
 - Drink a morning coffee, sometimes Monster Energy in the afternoon
 - Read articles and tech news recommended by https://developers.google.com/search/docs/appearance/google-discover  
-- Learn the society, trends, news and sometimes useful or dummy information by checking LIHKG forum
-- Check tech news and trends in telegram group
+- Learn the society, trends, news and sometimes useful or dummy information on LIHKG forum
+- Check tech news and trends in telegram groups
 - Search answsers and opinions from Reddit, some Discord channels, Google, ChatGPT
 
 #### Things I follow
