@@ -2,6 +2,7 @@
 This is a place where I leave my stuff and move on. :rofl:  
 #### Currently learning  
 - ChatGPT!!!  
+- Astro framework  
 - Blockchain Techs: smart contracts, NFT, DAO, Layer 2  
 - Devops: Kubernetes, Terraform, Pulumi, ArgoCD  
 - Microservices architecture: Hexagonal Architecture, DDD, BDD  
