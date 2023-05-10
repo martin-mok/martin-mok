@@ -8,12 +8,12 @@ This is a place where I leave my stuff and move on. :rofl:
 
 #### Daily activities
 - Drink a morning coffee, sometimes Monster Energy in the afternoon
-- Read articles and tech news recommended by https://developers.google.com/search/docs/appearance/google-discover  
-- Learn the society, trends, news and sometimes useful or dummy information on LIHKG forum
+- Read articles and news recommended by https://developers.google.com/search/docs/appearance/google-discover  
+- Learn the society, trends, news and sometimes useful or dummy information on a HK forum :)
 - Check tech news and trends in telegram groups
 - Search answsers and opinions from Reddit, some Discord channels, Google, ChatGPT
 
-#### Things I follow
+#### What I follow
 - ByteByteGo
 - Hussein Nasser
 - https://bloggingfordevs.com/trends
@@ -22,9 +22,7 @@ This is a place where I leave my stuff and move on. :rofl:
 Learning physics in an ivory tower
 
 #### Interests
-- coding
-- finance, economy
-- travel
+coding, finance, economy, travel
 
 <!--
 **Martin-Mok-Tin-Kui/Martin-Mok-Tin-Kui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
