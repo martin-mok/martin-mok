@@ -1,5 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 This is a place where I leave my stuff and move on. :rofl:  
+#### Researching
+Canton Network, distributed Financial Market Infrastructure (dFMI) by Clearmatics
 #### Currently learning  
 - ChatGPT!!!  
 - Astro framework  
