@@ -4,8 +4,8 @@ This is a place where I leave my stuff and move on. :rofl:
 Canton Network, distributed Financial Market Infrastructure (dFMI) by Clearmatics
 #### Currently learning  
 - ChatGPT!!!  
-- Astro framework  
-- Blockchain Techs: smart contracts, NFT, DAO, Layer 2  
+- FE: Astro framework  
+- Blockchain Techs: NFT, DeFi (Yield farming , Lending, Perpetual Protocol), DAO, Layer 2  
 - Devops: Kubernetes, Terraform, Pulumi, ArgoCD  
 - Microservices architecture: Hexagonal Architecture, DDD, BDD  
 
