@@ -14,7 +14,7 @@ Bookmarks knowledge graph
 - Read articles and news recommended by https://developers.google.com/search/docs/appearance/google-discover  
 - Learn the society, trends, news and sometimes useful or dummy information on the internet
 - Check tech news and trends in telegram groups
-- Search answsers and opinions from Reddit, some Discord channels, Google, ChatGPT
+- Search answsers and opinions from Reddit, Slack channels, Discord channels, Telegram group, Google, ChatGPT
 
 #### What I follow
 - ByteByteGo
