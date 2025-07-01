@@ -3,7 +3,7 @@ This is a place where I leave my stuff and move on. :rofl:
 #### Researching
 Bookmarks knowledge graph
 #### Currently learning  
-- ChatGPT!!!  
+- Claude Code, Roo Code  
 - FE: Astro framework  
 - Devops: Kubernetes, Terraform, Pulumi, ArgoCD  
 - Microservices architecture: Hexagonal Architecture, DDD, BDD  
